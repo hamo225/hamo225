@@ -1,4 +1,23 @@
-### Hi there 👋
+### info.aboutme 👋
+
+```
+let tarek = {
+  
+  experienceIn: [Javascript, HTML, CSS, SASS, GIT, Bootstrap, PHP],
+ 
+  currentlyLearning: [Javascript, React],
+  
+  education: "self taught",
+  
+  currentProjects: ["book box subscription", "fnb supplier marketplace", "opensource projects with Freeware Lovers"],
+   
+  myPromises: ["commit daily", "learn daily", "work open-source", "contribute to open-source", "build projects"]
+  
+  lookingForAJob = true
+
+}
+```
+ 📫 How to find me: [Dev.to](https://dev.to/hamo225), [Twitter](https://twitter.com/hamo2253)
 
 <!--
 **hamo225/hamo225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
