@@ -7,11 +7,11 @@ let tarek = {
  
   currentlyLearning: [Javascript, React],
   
-  education: "self taught",
+  education: "self-taught",
   
   currentProjects: ["book box subscription", "fnb supplier marketplace", "opensource projects with Freeware Lovers"],
    
-  myPromises: ["commit daily", "learn daily", "work open-source", "contribute to open-source", "build projects"]
+  myPromises: ["commit daily", "learn daily", "work with open-source", "contribute to open-source", "build more projects"]
   
   lookingForAJob = true
 
