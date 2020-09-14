@@ -6,9 +6,7 @@ let tarek = {
   experienceIn: [Javascript, HTML, CSS, SASS, GIT, Bootstrap, PHP],
  
   currentlyLearning: [Javascript, React],
-  
-  education: "self-taught",
-  
+ 
   currentProjects: ["book-box-subscription", "fnb supplier marketplace", "opensource projects"],
    
   myPromises: ["commit daily", "learn daily", "contribute to open-source", "build more projects"]
