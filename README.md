@@ -9,9 +9,9 @@ let tarek = {
   
   education: "self-taught",
   
-  currentProjects: ["book box subscription", "fnb supplier marketplace", "opensource projects with Freeware Lovers"],
+  currentProjects: ["book-box-subscription", "fnb supplier marketplace", "opensource projects"],
    
-  myPromises: ["commit daily", "learn daily", "work with open-source", "contribute to open-source", "build more projects"]
+  myPromises: ["commit daily", "learn daily", "contribute to open-source", "build more projects"]
   
   lookingForAJob = true
 
