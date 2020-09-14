@@ -2,6 +2,7 @@
 
 ```
 let tarek = {
+
   experienceIn: [Javascript, HTML, CSS, SASS, GIT, Bootstrap, PHP],
   
   currentlyLearning: [Javascript, React],
