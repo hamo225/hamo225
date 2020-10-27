@@ -3,11 +3,11 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, HTML, CSS, SASS, GIT, Bootstrap, PHP],
+  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, PHP],
  
   currentlyLearning: [Javascript, React],
  
-  currentProjects: ["book-box-subscription", "fnb supplier marketplace", "opensource projects"],
+  currentProjects: ["book-box-subscription", "fnb supplier marketplace", "freeware lovers projects"],
    
   myPromises: ["commit daily", "learn daily", "contribute to open-source", "build more projects"]
   
