@@ -17,14 +17,13 @@ let tarek = {
 }
 ```
 
-
 It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy and interest for programming and made the decision to enter software development. I like building things, finding new ways for solving problems & am passionate about user-centric products. 
 
 As a developer so far, I have focused my efforts on non-profit initiatives, increasing their reach to their community and growing their user base. I learned to code while working with these initiatives and now I am embarking upon the next step of this year's long journey by looking for an opportunity to work alongside an enthusiastic team with the chance to learn and 10x my professional development. 
 
 I am eager to pursue much more of JavaScript and React, open to learning new tools & technologies and will bring to the table a positive attitude towards any challenges.
 
-📫 How to find me: [Dev.to](https://dev.to/hamo225), [Twitter](https://twitter.com/hamo2253)
+📫 How to find me: [Dev.to](https://dev.to/hamo225), [Twitter](https://twitter.com/hamo2253), [LinkedIn](https://www.linkedin.com/in/tarekhamaoui/)
 
 
 <!--
