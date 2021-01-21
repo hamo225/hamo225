@@ -3,25 +3,25 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, PHP, npm, GIT],
+  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, Node.js, npm, GIT],
   
   tools: [Figma, Tableau, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel],
  
-  currentlyLearning: [Javascript, React],
+  currentlyLearning: [Javascript, React, Node.js],
  
-  currentProjects: ["book-box-subscription", "fnb supplier marketplace", "freeware lovers projects"],
+  currentProjects: ["book-box-subscription", "coaching application", "freeware lovers projects"],
    
-  myPromises: ["commit daily", "learn daily", "contribute to open-source", "build more projects"]
+  myPromises: ["commit often", "learn daily", "contribute to open-source", "build build build"]
   
   lookingForAJob = true
 }
 ```
 
-It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy and interest for programming and made the decision to enter software development. I like building things, finding new ways for solving problems & am passionate about user-centric products. 
+It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy for programming and made the decision to enter software development. I like building things, finding new ways for solving problems & am passionate about user-centric products. 
 
-As a developer so far, I have focused my efforts on non-profit initiatives, increasing their reach to their community and growing their user base. I learned to code while working with these initiatives and now I am embarking upon the next step of this year's long journey by looking for an opportunity to work alongside an enthusiastic team with the chance to learn and 10x my professional development. 
+As a developer thus far, I have focused my efforts on non-profit initiatives, increasing their reach to their community and growing their user base. I learned to code while working with these initiatives and I am now looking for an opportunity to work alongside an enthusiastic team with the chance to learn and 10x my professional development. 
 
-I am eager to pursue much more of JavaScript and React, open to learning new tools & technologies and will bring to the table a positive attitude towards any challenges.
+I am eager to pursue much more work with JavaScript and React, am open to learning new tools & technologies and will bring to the table a positive attitude towards any challenges.
 
 📫 How to find me: [Dev.to](https://dev.to/hamo225), [Twitter](https://twitter.com/hamo2253), [LinkedIn](https://www.linkedin.com/in/tarekhamaoui/)
 
