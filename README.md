@@ -3,11 +3,11 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, Node.js, npm, GIT],
+  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, React.js, Node.js, npm, GIT],
   
   tools: [Figma, Tableau, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel],
  
-  currentlyLearning: [Javascript, React, Node.js],
+  currentlyAlwaysLearning: [Javascript, React, Node.js],
  
   currentProjects: ["book-box-subscription", "coaching application", "freeware lovers projects"],
    
@@ -17,9 +17,9 @@ let tarek = {
 }
 ```
 
-It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy for programming and made the decision to enter software development. I like building things, finding new ways for solving problems & am passionate about user-centric products. 
+Self-taught frontend javascript developer. I build user-centric websites with functional and scalable components in mind. Since transitioning into software development in April 2020, I am proud to have launched 3 client projects, with 3 more currently in development and 1 in production. I have created 68 Github repos with 660+ contributions, participated in 1 open source project, and completed online courses totalling 150+hrs course time. I also have experience leading remote teams, managing large scale operations and working closely with data analysts.
 
-As a developer thus far, I have focused my efforts on non-profit initiatives, increasing their reach to their community and growing their user base. I learned to code while working with these initiatives and I am now looking for an opportunity to work alongside an enthusiastic team with the chance to learn and 10x my professional development. 
+It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy for programming and made the decision to enter software development. 
 
 I am eager to pursue much more work with JavaScript and React, am open to learning new tools & technologies and will bring to the table a positive attitude towards any challenges.
 
