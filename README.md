@@ -3,13 +3,13 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, React.js, Node.js, npm, GIT],
+  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, React.js, npm, GIT],
   
-  tools: [Figma, Tableau, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel],
+  tools: [Figma, Tableau, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel, Wordpress],
  
   currentlyAlwaysLearning: [Javascript, React, Node.js],
  
-  currentProjects: ["book-box-subscription", "coaching application", "freeware lovers projects"],
+  currentProjects: ["book-box-subscription", "MedkitDoc",],
    
   myPromises: ["commit often", "learn daily", "contribute to open-source", "build build build"]
   
@@ -17,7 +17,7 @@ let tarek = {
 }
 ```
 
-Self-taught frontend javascript developer. I build user-centric websites with functional and scalable components in mind. Since transitioning into software development in April 2020, I am proud to have launched 5 client projects, with 3 more currently in development and 1 in production. I have created 74 Github repos with 800+ contributions, participated in 1 open source project, and completed online courses totalling 150+hrs course time. I also have experience leading remote teams, managing large scale operations and working closely with data analysts.
+I build user-centric websites with functional and scalable components in mind. Since transitioning into software development in April 2020, I have launched 5 client projects, with 3 currently in development. I have created 80+ Github repos with 800+ contributions, participated in 1 open source project, and completed online courses totalling 150+hrs course time. I also have experience leading remote teams, managing large scale operations and working closely with data analysts.
 
 It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy for programming and made the decision to enter software development. 
 
