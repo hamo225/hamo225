@@ -3,25 +3,18 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, HTML, CSS, SCSS, GIT, Bootstrap, React.js, npm, GIT],
+  experienceIn: [Javascript, HTML, SCSS, React, Node, Npm, GIT],
   
-  tools: [Figma, Tableau, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel, Wordpress],
+  tools: [Figma, Tableau, AWS, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel, Wordpress],
  
-  currentlyAlwaysLearning: [Javascript, React, Node.js],
- 
-  currentProjects: ["book-box-subscription", "MedkitDoc",],
-   
+  currentlyAlwaysLearning: [Javascript, React, Node.js, Docker],
+    
   myPromises: ["commit often", "learn daily", "contribute to open-source", "build build build"]
   
-  lookingForAJob = true
 }
 ```
 
-I build user-centric websites with functional and scalable components in mind. Since transitioning into software development in April 2020, I have launched 5 client projects, with 3 currently in development. I have created 80+ Github repos with 800+ contributions, participated in 1 open source project, and completed online courses totalling 150+hrs course time. I also have experience leading remote teams, managing large scale operations and working closely with data analysts.
-
-It was as an operations specialist working with product teams and developers where I recognised my intrinsic joy for programming and made the decision to enter software development. 
-
-I am eager to pursue much more work with JavaScript and React, am open to learning new tools & technologies and will bring to the table a positive attitude towards any challenges. Please check out my portoflio site at http://developersandbox.de.
+I build user-centric websites with functional and scalable components in mind. I am always learning.
 
 📫 How to find me: [Portfolio](http://developersandbox.de), [Dev.to](https://dev.to/hamo225), [Twitter](https://twitter.com/hamo2253), [LinkedIn](https://www.linkedin.com/in/tarekhamaoui/)
 
