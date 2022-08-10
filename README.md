@@ -3,11 +3,11 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, HTML, SCSS, React, Node, Npm, GIT],
+  experienceIn: [Javascript, SCSS, React, Python, Node, Npm, GIT],
   
-  tools: [Figma, Tableau, AWS, Confluence, Trello, Asana, cPanel, Heroku, Netlify, Vercel, Wordpress],
+  tools: [Figma, Jira, Tableau, AWS, Confluence, Trello, Asana, cPanel, Netlify, Vercel, Wordpress],
  
-  currentlyAlwaysLearning: [Javascript, React, Node.js, Docker],
+  currentlyAlwaysLearning: [React, Python, Java, Docker],
     
   myPromises: ["commit often", "learn daily", "contribute to open-source", "build build build"]
   
@@ -16,7 +16,7 @@ let tarek = {
 
 I build user-centric websites with functional and scalable components in mind. I am always learning.
 
-📫 How to find me: [Portfolio](http://developersandbox.de), [Dev.to](https://dev.to/hamo225), [Twitter](https://twitter.com/hamo2253), [LinkedIn](https://www.linkedin.com/in/tarekhamaoui/)
+📫 How to find me: [Twitter](https://twitter.com/hamo2253), [LinkedIn](https://www.linkedin.com/in/tarekhamaoui/)
 
 
 <!--
