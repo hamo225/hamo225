@@ -3,11 +3,11 @@
 ```
 let tarek = {
   
-  experienceIn: [Javascript, SCSS, React, Python, Node, Npm, GIT],
+  experienceIn: [Javascript, SCSS, React, Vue, Python, Node, Npm, GIT],
   
   tools: [Figma, Jira, Tableau, AWS, Confluence, Trello, Asana, cPanel, Netlify, Vercel, Wordpress],
  
-  currentlyAlwaysLearning: [React, Python, Java, Docker],
+  currentlyAlwaysLearning: [React, Vue, Python, Docker],
     
   myPromises: ["commit often", "learn daily", "contribute to open-source", "build build build"]
   
