@@ -1,9 +1,9 @@
 ### info.aboutme 👋
 
 ```
-let tarek = {
+{
   
-  experienceIn: [Javascript, SCSS, React, Vue, Python, Node, Npm, GIT],
+  experienceIn: [Javascript, React, Vue, Python, Node, Npm, GIT],
   
   tools: [Figma, Jira, Tableau, AWS, Confluence, Trello, Asana, cPanel, Netlify, Vercel, Wordpress],
  
@@ -13,11 +13,6 @@ let tarek = {
   
 }
 ```
-
-I build user-centric websites with functional and scalable components in mind. I am always learning.
-
-📫 How to find me: [Twitter](https://twitter.com/hamo2253), [LinkedIn](https://www.linkedin.com/in/tarekhamaoui/)
-
 
 <!--
 **hamo225/hamo225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
